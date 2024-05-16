@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588074192247",
+    "project_id": "arsastyleadmin",
+    "storage_bucket": "arsastyleadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588074192247:android:c5f0a52944b4a4236d6572",
+        "android_client_info": {
+          "package_name": "com.salmakhd.android.arsastyleadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZE-bX4WA_wFqWko5wpzGT10iL6J_5BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
