@@ -18,5 +18,8 @@ The code for the main app has been omited, as ArsaStyle is planned to be publish
 ## Login
 ![MergedImages(4)](https://github.com/SalmaKHD/ArsaStyleAdminApp/assets/110356574/1cbf07cf-e17c-4090-9449-cf6988470fb4)
 ## Main Screens
+![MergedImages(5)](https://github.com/SalmaKHD/ArsaStyleAdminApp/assets/110356574/55a17d3d-e8a0-4b26-947a-bc6074c78ffd)
+
+![MergedImages(6)](https://github.com/SalmaKHD/ArsaStyleAdminApp/assets/110356574/9a569e09-81c0-49e3-98ab-963ab3e3b38c)
 
 
