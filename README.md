@@ -9,3 +9,4 @@ The code for the main app has been omited, as ArsaStyle is planned to be publish
 ![MergedImages](https://github.com/SalmaKHD/ArsaStyleAdminApp/assets/110356574/90ae9d8d-a138-43da-9388-bcce10064fb1)
 
 ## Main App
+![MergedImages(1)](https://github.com/SalmaKHD/ArsaStyleAdminApp/assets/110356574/df6cca3e-34d1-4a75-8aa0-e6524835010c)
